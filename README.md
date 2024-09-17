@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @adamaqil
+- 👋 Hi, I’m @AboAqil
 - 👀 I’m interested in humans 
 - 🌱 I’m currently learning MySQL
 - 💞️ I’m looking to collaborate on anything challenging 
